@@ -3,6 +3,7 @@
     "description": "Nimbus Post apis package",
     "type": "metapackage",
     "license":"MIT",
+    "homepage": "https://github.com/rishabh-nimbus/nimbuspost-api",
     "autoload": {
         "psr-4": {
             "Nimbuspackage\\Nimbuspost\\": "src/"
